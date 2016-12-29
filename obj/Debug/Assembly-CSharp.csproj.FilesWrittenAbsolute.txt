@@ -1,0 +1,14 @@
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/UnityEngine.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/UnityEditor.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/UnityEngine.UI.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/UnityEngine.Networking.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Mono.Cecil.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Unity.DataContract.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Unity.CecilTools.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Volumes/HD 1TB/Users/scabanillas/Desktop/TRABAJOS/JUEGOS/GIT/BattleStone/Temp/bin/Debug/Mono.Cecil.Mdb.dll
